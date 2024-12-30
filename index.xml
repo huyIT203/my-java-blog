@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java blog</title>
+    <link>https://github.com/huyIT203/blog.git/</link>
+    <description>Recent content on java blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2024 17:51:21 +0700</lastBuildDate>
+    <atom:link href="https://github.com/huyIT203/blog.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huong Dan Javascript Co Ban</title>
+      <link>https://github.com/huyIT203/blog.git/posts/huong-dan-javascript-co-ban/</link>
+      <pubDate>Mon, 30 Dec 2024 17:51:21 +0700</pubDate>
+      <guid>https://github.com/huyIT203/blog.git/posts/huong-dan-javascript-co-ban/</guid>
+      <description>&lt;p&gt;Đây là bài học về javascript&#xA;&amp;lsquo;&amp;lsquo;&amp;lsquo;java&#xA;public static void main(String[] args){&#xA;System.out.println(&amp;ldquo;chao mừng đến với blog của tôi&amp;rdquo;);&#xA;}&#xA;&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huong Dan Java Co Ban</title>
+      <link>https://github.com/huyIT203/blog.git/posts/huong-dan-java-co-ban/</link>
+      <pubDate>Mon, 30 Dec 2024 17:37:20 +0700</pubDate>
+      <guid>https://github.com/huyIT203/blog.git/posts/huong-dan-java-co-ban/</guid>
+      <description>&lt;h1 id=&#34;hướng-dẫn-java-cơ-bản&#34;&gt;Hướng dẫn Java cơ bản&lt;/h1&gt;&#xA;&lt;p&gt;Đây là bài học về Java. Chúng ta sẽ tìm hiểu cách viết chương trình đầu tiên bằng Java&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
